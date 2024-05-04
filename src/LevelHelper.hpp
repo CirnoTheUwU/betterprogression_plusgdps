@@ -9,7 +9,7 @@ using namespace geode::prelude;
 #define GOLD_COIN_EXP 100
 #define USER_COIN_EXP 20
 #define DEMON_EXP 75
-#define CP_EXP 5000
+#define CP_EXP 500
 
 class LevelHelper {
     public:
