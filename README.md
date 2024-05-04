@@ -18,7 +18,7 @@ The amount of EXP you get for each stat is shown below:
 * <co>Secret Coins: </c> 100 EXP
 * User Coins: 20 EXP
 * <cr>Demons: </c> 75 EXP
-* <cg>Creator Points: </c> 5000 EXP
+* <cg>Creator Points: </c> *500* (reduced from 5000) EXP
 
 ## Credits
 * **<cg>availax</c>** for creating the mod's icon
